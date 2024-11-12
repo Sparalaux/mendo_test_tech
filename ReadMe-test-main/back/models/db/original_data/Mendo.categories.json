@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6719092588bde3197ac30654"
+  },
+  "name": "Horreur",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6719092a88bde3197ac30658"
+  },
+  "name": "Comédie",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6719093f88bde3197ac30660"
+  },
+  "name": "Mystére",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a0788bde3197ac30664"
+  },
+  "name": "Fantastique",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a0d88bde3197ac30668"
+  },
+  "name": "Biographie",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a1588bde3197ac3066c"
+  },
+  "name": "Conte",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a1a88bde3197ac30670"
+  },
+  "name": "Poésie",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a2188bde3197ac30674"
+  },
+  "name": "Thriller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a2688bde3197ac30678"
+  },
+  "name": "Roman",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67190a2e88bde3197ac3067c"
+  },
+  "name": "Manga",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671f030c2bfe1c79806de815"
+  },
+  "name": "Test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67235aa799506dab4dd3cffc"
+  },
+  "name": "Oulipo",
+  "__v": 0
+}]

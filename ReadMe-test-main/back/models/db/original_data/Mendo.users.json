@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6719086d88bde3197ac3062a"
+  },
+  "email": "support@mendo.ai",
+  "password": "$2b$10$LQNEx1UMfILmHW458EiVK.GjxlcXwW8a.g8CoDhfluuXU9ffzNh76",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzE5MDg2ZDg4YmRlMzE5N2FjMzA2MmEiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE3MzAzNzAwMDMsImV4cCI6MTczMDQ1NjQwM30.eVRMWOZoFofpIZ-9q_LrBWVOymyYJx22uHvttZ-mdZs",
+  "isAdmin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ed6b53b78593a54c9ac16"
+  },
+  "email": "test@mendo.cloud",
+  "password": "$2b$10$aDSRWclog1vO34UiTYq7sut0EmDBv14zxtfWgboUFwtdwkIqR1dCq",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzFlZDZiNTNiNzg1OTNhNTRjOWFjMTYiLCJpc0FkbWluIjpmYWxzZSwiaWF0IjoxNzMwMDc0NjI2LCJleHAiOjE3MzAxNjEwMjZ9.78pxQIvrmYtMW09ohutamtipp8TepjEdP9-gyOgvNPs",
+  "isAdmin": false,
+  "__v": 0
+}]

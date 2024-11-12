@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "JusticeFest";
+    src: url("../public/fonts/JUSTICEFEST.otf");
+  }
+
+  @font-face {
+    font-family: "Doodles";
+    src: url("../public/fonts/Doodles.ttf");
+  }
